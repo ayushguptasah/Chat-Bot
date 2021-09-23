@@ -1,0 +1,35 @@
++ start 
+- Hello. I am a brand new bot with little to say.
+
++ hello
+- Hi
+
++ hi
+- Hello
+
++ hii
+- Hello
+
++ hiii
+- Hello
+
++ how are you
+- I'm great, how are you?
+- I'm good, you?
+- Good :) you?
+- Great! You?
+- I'm fine, thanks for asking!
+
++ i am (really|very|super) tired
+- I'm sorry to hear that you are <star> tired.
+
++ i (like|love) you
+-I <star> you too
+-Haaye, Really I <star> you too
+-I also <star> you too
+
++ bye
+- Bye. Come back soon.
+
++ *
+- Sorry, I don't understand that.
